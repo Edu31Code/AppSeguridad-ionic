@@ -1,0 +1,8 @@
+{
+  "name": "securityApp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
